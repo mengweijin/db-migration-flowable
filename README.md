@@ -1,9 +1,9 @@
 # db-migration
 <p align="center">
     <a target="_blank" href="https://search.maven.org/search?q=g:%22com.github.mengweijin%22%20AND%20a:%22db-migration-flowable%22">
-        <img src="https://img.shields.io/maven-central/v/com.github.mengweijin/db-migration?label=db-migration-flowable&color=blue" />
+        <img src="https://img.shields.io/maven-central/v/com.github.mengweijin/db-migration-flowable?label=db-migration-flowable&color=blue" />
     </a>
-	<a target="_blank" href="https://github.com/mengweijin/db-migration/blob/master/LICENSE">
+	<a target="_blank" href="https://github.com/mengweijin/db-migration-flowable/blob/master/LICENSE">
 		<img src="https://img.shields.io/badge/license-Apache2.0-blue.svg" />
 	</a>
 	<a target="_blank" href="https://www.oracle.com/technetwork/java/javase/downloads/index.html">
