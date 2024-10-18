@@ -19,3 +19,9 @@
 
 ## 介绍
 
+db-migration 使用 Liquibase 支持 Flowable 工作流。
+
+已支持：
+
+* 南大通用 GBase 8s 数据库
+
