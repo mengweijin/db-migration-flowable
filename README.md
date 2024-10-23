@@ -25,3 +25,4 @@ db-migration 使用 Liquibase 支持 Flowable 工作流。
 
 * 南大通用 GBase 8s 数据库
 
+[Flowable 版本升级 sql 脚本](https://github.com/flowable/flowable-engine/tree/main/distro/sql/upgrade/all)
